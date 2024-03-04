@@ -50,7 +50,7 @@
     <sakai.jsoup.version>1.14.2</sakai.jsoup.version>
     <sakai.woodstox.version>6.2.8</sakai.woodstox.version>
     <sakai.stax2.version>4.2.1</sakai.stax2.version>
-    <sakai.java.jwt.version>3.1.0</sakai.java.jwt.version>
+    <sakai.java.jwt.version>3.3.0</sakai.java.jwt.version>
     <sakai.jstl.version>1.2</sakai.jstl.version>
     <sakai.lombok.version>1.18.24</sakai.lombok.version>
     <sakai.lucene.version>8.11.1</sakai.lucene.version>
