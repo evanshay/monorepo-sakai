@@ -20,7 +20,7 @@
   <version>23-SNAPSHOT</version>
 
   <properties>
-    <sakai.version>23-SNAPSHOT</sakai.version>
+    <sakai.version>23.0</sakai.version>
     <!-- Standard dependency versions -->
     <sakai.commons-io.version>2.11.0</sakai.commons-io.version>
     <sakai.commons.lang.version>2.6</sakai.commons.lang.version>
@@ -35,7 +35,7 @@
     <sakai.ehcache.groupId>net.sf.ehcache</sakai.ehcache.groupId>
     <sakai.ehcache.artifactId>ehcache-core</sakai.ehcache.artifactId>
     <sakai.ehcache.version>2.6.11</sakai.ehcache.version>
-    <sakai.elasticsearch.version>7.17.1</sakai.elasticsearch.version>
+    <sakai.elasticsearch.version>7.17.19</sakai.elasticsearch.version>
     <sakai.hibernate.version>5.4.24.Final</sakai.hibernate.version>
     <sakai.hikaricp.version>4.0.3</sakai.hikaricp.version>
     <sakai.httpclient.version>4.5.13</sakai.httpclient.version>
