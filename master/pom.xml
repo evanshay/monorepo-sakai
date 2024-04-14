@@ -20,7 +20,7 @@
   <version>23-SNAPSHOT</version>
 
   <properties>
-    <sakai.version>23-SNAPSHOT</sakai.version>
+    <sakai.version>23.0</sakai.version>
     <!-- Standard dependency versions -->
     <sakai.commons-io.version>2.11.0</sakai.commons-io.version>
     <sakai.commons.lang.version>2.6</sakai.commons.lang.version>
