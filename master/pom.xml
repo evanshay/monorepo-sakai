@@ -44,7 +44,7 @@
     <sakai.httpclient5.version>5.1.3</sakai.httpclient5.version>
     <sakai.httpcore5.version>5.1.3</sakai.httpcore5.version>
     <sakai.ignite.version>2.12.0</sakai.ignite.version>
-    <sakai.ignite.spring.ext.version>1.0.0</sakai.ignite.spring.ext.version>
+    <sakai.ignite.spring.ext.version>2.0.0</sakai.ignite.spring.ext.version>
     <sakai.gridgain.version>8.8.7</sakai.gridgain.version>
     <sakai.jackson.version>2.13.2</sakai.jackson.version>
     <sakai.jsoup.version>1.14.2</sakai.jsoup.version>
